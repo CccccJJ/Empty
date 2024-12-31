@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/empty.iml" filepath="$PROJECT_DIR$/.idea/empty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/langtools-1ff9d5118aae/langtools-1ff9d5118aae.iml" filepath="$PROJECT_DIR$/langtools-1ff9d5118aae/langtools-1ff9d5118aae.iml" />
-    </modules>
-  </component>
-</project>
