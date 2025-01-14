@@ -71,3 +71,7 @@ nbdist/
 !*/build/*.xml
 
 out/**
+
+**/target/**
+
+**/.DS_store

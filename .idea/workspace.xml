@@ -5,80 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce6a706b-13b6-4cef-967d-999ac01d73eb" name="Changes" comment="拓展 要忽略文件/文件夹内容">
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/SpringSecurityApplication.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/test/kotlin/com/example/springsecurity/SpringSecurityApplicationTests.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Attr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Chunk.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Chunk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$ClassFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$ClassFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Code.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Code.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Constant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$CountedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$CountedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Field.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Field.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$InnerOuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$InnerOuter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Instruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Instruction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Loader.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Loader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Logic$JVMState.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Logic$JVMState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Logic.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Logic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Method.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Pool.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Pool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/InvokeDynamicTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/InvokeDynamicTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest$ClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest$ClassA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$Father.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$GrandFather.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$GrandFather.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$Son.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ClassLoaderTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ClassLoaderTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ClassLoaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ClassLoaderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ConstClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ConstClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization3.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/SubClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/SubClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/SuperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/SuperClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/clazz/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/clazz/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/compiler/CompilerTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/compiler/CompilerTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/FinalizeEscapeGC.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/FinalizeEscapeGC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/HandlePromotionFailure.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/HandlePromotionFailure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/MaxTenuringThreshold.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/MaxTenuringThreshold.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/MinorGC.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/MinorGC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/PretenureSizeThreshold.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/PretenureSizeThreshold.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/ReferenceCountingGC.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/ReferenceCountingGC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/TenuringThreshold.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/TenuringThreshold.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/WhichGarbageCollector.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/WhichGarbageCollector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/DeadLock$SyncAddRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/DeadLock$SyncAddRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/DeadLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/DeadLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/EndLessLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/EndLessLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/OOM$OOMObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/OOM$OOMObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/OOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/OOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$ObjectHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$ObjectHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/direct/DirectMemoryOOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/direct/DirectMemoryOOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/heap/HeapOOM$OOMObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/heap/HeapOOM$OOMObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/heap/HeapOOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/heap/HeapOOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackOOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackOOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackSOF1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackSOF1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackSOF2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackSOF2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/visualvm/BTraceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JVM/target/classes/org/example/visualvm/BTraceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Chunk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$ClassFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Constant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$CountedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Field.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$InnerOuter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Instruction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Logic$JVMState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Logic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Pool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/InvokeDynamicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest$ClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$GrandFather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ClassLoaderTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ClassLoaderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ConstClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/SuperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/clazz/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/compiler/CompilerTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/FinalizeEscapeGC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/HandlePromotionFailure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/MaxTenuringThreshold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/MinorGC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/PretenureSizeThreshold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/ReferenceCountingGC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/TenuringThreshold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/WhichGarbageCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/DeadLock$SyncAddRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/DeadLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/EndLessLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/OOM$OOMObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/OOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$ObjectHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/direct/DirectMemoryOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/heap/HeapOOM$OOMObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/heap/HeapOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackSOF1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackSOF2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/visualvm/BTraceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/config/SecurityConfig.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/dto/LoginRequest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/entity/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/security/CustomAuthenticationFilter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/security/JwtTokenProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/service/CaptchaService.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,12 +86,37 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/3.4.1/spring-boot-autoconfigure-3.4.1.jar!/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/6.4.2/spring-security-config-6.4.2-sources.jar!/org/springframework/security/config/annotation/authentication/configuration/AuthenticationConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/6.4.2/spring-security-config-6.4.2-sources.jar!/org/springframework/security/config/annotation/authentication/configuration/EnableGlobalAuthentication.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/6.4.2/spring-security-config-6.4.2-sources.jar!/org/springframework/security/config/annotation/web/HttpSecurityBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/6.4.2/spring-security-config-6.4.2-sources.jar!/org/springframework/security/config/annotation/web/configuration/EnableWebSecurity.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2-sources.jar!/org/springframework/security/web/context/SecurityContextPersistenceFilter.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/Modules/Maven/apache-maven-3.8.4" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
@@ -113,6 +133,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.A.executor&quot;: &quot;Run&quot;,
     &quot;Application.BTraceTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClassLoaderTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.CompilerTest1.executor&quot;: &quot;Run&quot;,
@@ -141,7 +162,7 @@
     &quot;Application.TenuringThreshold.executor&quot;: &quot;Run&quot;,
     &quot;Application.V.executor&quot;: &quot;Run&quot;,
     &quot;Application.WhichGarbageCollector.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.Main.executor&quot;: &quot;Debug&quot;,
     &quot;Application.string.executor&quot;: &quot;Run&quot;,
     &quot;Maven.JVM [clean].executor&quot;: &quot;Run&quot;,
     &quot;Maven.JVM [compile].executor&quot;: &quot;Run&quot;,
@@ -149,8 +170,13 @@
     &quot;Maven.SpringSecurity [compile].executor&quot;: &quot;Run&quot;,
     &quot;Maven.resource [clean].executor&quot;: &quot;Run&quot;,
     &quot;Maven.resource [compile].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringSecurityApplication.executor&quot;: &quot;Debug&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -163,7 +189,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -185,20 +211,7 @@
       <recent name="org.example.gc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompilerTest1">
-    <configuration name="CompilerTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.compiler.CompilerTest1" />
-      <module name="JVM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.compiler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.SpringSecurityApplication">
     <configuration name="InvokeDynamicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.bytecode.InvokeDynamicTest" />
       <module name="JVM" />
@@ -276,6 +289,8 @@
       </method>
     </configuration>
     <configuration name="SpringSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="SpringSecurity" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springsecurity.SpringSecurityApplication" />
       <method v="2">
@@ -283,7 +298,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CompilerTest1" />
       <item itemvalue="Application.org.example.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.InvokeDynamicTest" />
@@ -296,7 +310,6 @@
         <item itemvalue="Application.MethodHandleTest2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.InvokeDynamicTest" />
-        <item itemvalue="Application.CompilerTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +355,17 @@
       <workItem from="1735552030177" duration="293000" />
       <workItem from="1735565870418" duration="1271000" />
       <workItem from="1735567403467" duration="23000" />
-      <workItem from="1735567443755" duration="3818000" />
+      <workItem from="1735567443755" duration="36292000" />
+      <workItem from="1736014858996" duration="19000" />
+      <workItem from="1736254784355" duration="20992000" />
+      <workItem from="1736427501320" duration="983000" />
+      <workItem from="1736428506966" duration="32524000" />
+      <workItem from="1736621957924" duration="200000" />
+      <workItem from="1736650432198" duration="35000" />
+      <workItem from="1736682721751" duration="317000" />
+      <workItem from="1736683666072" duration="3581000" />
+      <workItem from="1736690785096" duration="11000" />
+      <workItem from="1736856351616" duration="276000" />
     </task>
     <task id="LOCAL-00001" summary="拓展 要忽略文件/文件夹内容">
       <option name="closed" value="true" />
@@ -372,6 +395,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="拓展 要忽略文件/文件夹内容" />
     <option name="LAST_COMMIT_MESSAGE" value="拓展 要忽略文件/文件夹内容" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java</url>
+          <line>235</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2-sources.jar!/org/springframework/security/web/FilterChainProxy.java</url>
+          <line>373</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
