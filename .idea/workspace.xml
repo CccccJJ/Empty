@@ -4,77 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce6a706b-13b6-4cef-967d-999ac01d73eb" name="Changes" comment="拓展 要忽略文件/文件夹内容">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Attr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Chunk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$ClassFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Code.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Constant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$CountedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Field.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$InnerOuter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Instruction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Loader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Logic$JVMState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Logic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify$Pool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/Indify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/InvokeDynamicTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest$ClassA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$GrandFather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2$Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/bytecode/MethodHandleTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ClassLoaderTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ClassLoaderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/ConstClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/NotInitialization3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/SubClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/classloader/SuperClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/clazz/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/compiler/CompilerTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/FinalizeEscapeGC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/HandlePromotionFailure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/MaxTenuringThreshold.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/MinorGC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/PretenureSizeThreshold.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/ReferenceCountingGC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/TenuringThreshold.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/gc/WhichGarbageCollector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/DeadLock$SyncAddRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/DeadLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/EndLessLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/OOM$OOMObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jconsole/OOM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$ObjectHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase$Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/jhsdb/JHSDBTestCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/direct/DirectMemoryOOM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/heap/HeapOOM$OOMObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/heap/HeapOOM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackOOM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackSOF1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/oom/stack/JavaVMStackSOF2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JVM/target/classes/org/example/visualvm/BTraceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/config/SecurityConfig.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/dto/LoginRequest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/entity/User.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/security/CustomAuthenticationFilter.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/security/JwtTokenProvider.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringSecurity/src/main/kotlin/com/example/springsecurity/service/CaptchaService.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="ce6a706b-13b6-4cef-967d-999ac01d73eb" name="Changes" comment="拓展 要忽略文件/文件夹内容" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,68 +61,68 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BTraceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassLoaderTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompilerTest1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeadLock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DirectMemoryOOM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EndLessLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalizeEscapeGC.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HandlePromotionFailure.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HeapOOM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InvokeDynamicTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JHSDBTestCase$ObjectHolder.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.JavaVMStackOOM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaVMStackSOF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaVMStackSOF2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxTenuringThreshold.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodHandleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodHandleTest2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinorGC.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotInitialization.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotInitialization2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotInitialization3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PretenureSizeThreshold.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReferenceCountingGC.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TenuringThreshold.executor&quot;: &quot;Run&quot;,
-    &quot;Application.V.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhichGarbageCollector.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.string.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.JVM [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.JVM [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringSecurity [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringSecurity [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.resource [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.resource [compile].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.SpringSecurityApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/project/Empty/langtools-1ff9d5118aae&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A.executor": "Run",
+    "Application.BTraceTest.executor": "Run",
+    "Application.ClassLoaderTest.executor": "Run",
+    "Application.CompilerTest1.executor": "Run",
+    "Application.DeadLock.executor": "Run",
+    "Application.DirectMemoryOOM.executor": "Run",
+    "Application.EndLessLoop.executor": "Run",
+    "Application.FinalizeEscapeGC.executor": "Run",
+    "Application.HandlePromotionFailure.executor": "Run",
+    "Application.HeapOOM.executor": "Run",
+    "Application.InvokeDynamicTest.executor": "Run",
+    "Application.JHSDBTestCase$ObjectHolder.executor": "Debug",
+    "Application.JavaVMStackOOM.executor": "Run",
+    "Application.JavaVMStackSOF.executor": "Run",
+    "Application.JavaVMStackSOF2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxTenuringThreshold.executor": "Run",
+    "Application.MethodHandleTest.executor": "Run",
+    "Application.MethodHandleTest2.executor": "Run",
+    "Application.MinorGC.executor": "Run",
+    "Application.NotInitialization.executor": "Run",
+    "Application.NotInitialization2.executor": "Run",
+    "Application.NotInitialization3.executor": "Run",
+    "Application.OOM.executor": "Run",
+    "Application.PretenureSizeThreshold.executor": "Run",
+    "Application.ReferenceCountingGC.executor": "Run",
+    "Application.TenuringThreshold.executor": "Run",
+    "Application.V.executor": "Run",
+    "Application.WhichGarbageCollector.executor": "Run",
+    "Application.org.example.Main.executor": "Debug",
+    "Application.string.executor": "Run",
+    "Maven.JVM [clean].executor": "Run",
+    "Maven.JVM [compile].executor": "Run",
+    "Maven.SpringSecurity [clean].executor": "Run",
+    "Maven.SpringSecurity [compile].executor": "Run",
+    "Maven.resource [clean].executor": "Run",
+    "Maven.resource [compile].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.SpringSecurityApplication.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/project/Empty/langtools-1ff9d5118aae",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\c\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="520e12f7-c9f2-4e4a-93f8-860ca92787d2" reportId="Empty/qodana/2024-12-26" />
@@ -365,7 +295,7 @@
       <workItem from="1736682721751" duration="317000" />
       <workItem from="1736683666072" duration="3581000" />
       <workItem from="1736690785096" duration="11000" />
-      <workItem from="1736856351616" duration="276000" />
+      <workItem from="1736856351616" duration="10366000" />
     </task>
     <task id="LOCAL-00001" summary="拓展 要忽略文件/文件夹内容">
       <option name="closed" value="true" />
@@ -400,14 +330,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java</url>
-          <line>235</line>
-          <option name="timeStamp" value="23" />
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/3.4.1/spring-boot-autoconfigure-3.4.1-sources.jar!/org/springframework/boot/autoconfigure/security/servlet/SpringBootWebSecurityConfiguration.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/6.4.2/spring-security-web-6.4.2-sources.jar!/org/springframework/security/web/FilterChainProxy.java</url>
           <line>373</line>
-          <option name="timeStamp" value="24" />
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
